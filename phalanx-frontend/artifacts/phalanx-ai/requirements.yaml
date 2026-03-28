@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For cinematic stagger animations, spatial depth transitions, and animated counters"
+  "recharts": "For tactical live charts (area, pie) on the command dashboard"
+  "lucide-react": "For sleek, modern iconography in the tactical UI"
+  "clsx": "For conditional tailwind classes in reusable components"
+  "tailwind-merge": "For merging tailwind classes seamlessly"
+
+images:
+  - path: "artifacts/phalanx-ai/public/images/phalanx-logo.png"
+    description: "Minimal geometric military-grade shield insignia in glowing blue and white on a transparent or pure black background. Cyberpunk aesthetic, very clean and symmetrical."
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a frontend-only application using mock data for the threat simulation.
+  - The tactical glass design system uses intense backdrop filters.
